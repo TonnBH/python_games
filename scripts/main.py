@@ -1,6 +1,6 @@
 import pygame, sys
 import pygame.display
-from settings import *
+from settings import
 from level_01 import Level
 from debug import debug
 pygame.display.init()
